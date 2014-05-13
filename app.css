@@ -24,6 +24,13 @@ body,
   line-height: 1em;
 }
 
+.masthead a {
+  color: #ccc;
+  font-weight: normal;
+  text-decoration: none;
+  font-size: 14px;
+}
+
 /**
  * layout-b
  */
