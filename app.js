@@ -32,5 +32,5 @@ if (navigator.serviceWorker) {
     });
 } else {
   log("# Your browser does not support ServiceWorker - are you using Canary?", true);
-  log("# Have you switched it on at `chrome://flags/#enable-service-worker`", true);
+  log("# Have you switched it on at `chrome://flags/#enable-service-worker`?", true);
 }
